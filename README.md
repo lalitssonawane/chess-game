@@ -1,1 +1,1 @@
-# chess-game
+# chess_game
